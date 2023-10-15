@@ -10,8 +10,8 @@ I specialize in Front End Web and Mobile development. Also I have a wide range o
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-eight-pearl.vercel.app/api/pin/?username=elijahstorm&repo=thunderlite" />
+  <img align="center" src="https://github-readme-stats-eight-pearl.vercel.app/api/pin/?username=elijahstorm&repo=thunderlite&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-eight-pearl.vercel.app/api/pin/?username=elijahstorm&repo=haja-web" />
+  <img align="center" src="https://github-readme-stats-eight-pearl.vercel.app/api/pin/?username=elijahstorm&repo=haja-web&theme=transparent" />
 </a>
