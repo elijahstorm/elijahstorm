@@ -1,1 +1,1 @@
-👋 Hi, I’m Elijah Storm :)
+# Free AI at api.airforce
